@@ -2,7 +2,7 @@
 
 ## Using Sockets and Remote Method Invocation
 
-[![Architecture](https://i.ibb.co/Xzt6fLq/1520119173997.jpg)](https://i.ibb.co)
+[![Architecture](https://i.ibb.co/wJwdskC/system-distribution-diagram.jpg)](https://i.ibb.co)
 
 ## Features
 
